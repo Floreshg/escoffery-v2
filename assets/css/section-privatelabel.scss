@@ -1,0 +1,118 @@
+/*
+
+.franja-roja {
+    background: #c1c1c1;
+}
+*/
+
+.barra-selector{
+    background: #c1c1c1!important;  
+    
+}
+@media screen and (min-width: 425px) {
+}
+
+
+
+a.btn.btn-danger.private {
+    padding: 11px;
+}
+
+
+.activos {
+    background-color: #c00301;
+}
+
+
+.espacio-border {
+    padding: 50px;
+    margin: 30px;
+}
+
+.active .hola .fecha-abajo {
+    background-color: #c00301;
+}
+
+
+.margen-selectora.pblabel {
+    max-width: 1170px;
+    height: 100%;
+}
+
+/*
+.barra-selectora.pblabel {
+    height: 59px;
+}
+*/
+
+@media screen and (min-width: 425px) {
+/*.barra-selectora.pblabel {
+    height: 69px;
+}*/
+}
+
+
+@media screen and (min-width: 590px) {
+   /* .margen-selectora.pblabel {
+        margin-left: calc(50% - 295px);
+    }*/
+}
+
+
+@media only screen and (min-width: 1200px) {
+
+/*    .margen-selectora.pblabel {
+        margin-left: calc(50% - 614px)!important;
+    }*/
+    .pblabel a > div.selector {
+        width: 8%;
+        margin: 0px 0% 0px 10%;
+
+    }
+
+    .barra-selectora.pblabel {
+        height: 102px !important;
+    }
+    
+    
+/*    .margen-selectora.pblabel {
+    margin-left: calc(23% - 295px);
+}*/
+}
+
+
+
+
+@media only screen and (min-width: 1200px){
+    .pblabel a > div.selector {
+    width: 9%;
+    margin: 0px 0% 0px 8%;
+}
+}
+
+
+@media only screen and (min-width: 769px) {
+/*.margen-selectora.pblabel {
+        margin-left: none;
+    }*/
+  }
+
+
+@media only screen and (min-width: 768px) {
+
+/*.margen-selectora.pblabel {
+    margin-left: calc(50% - 436px);
+}
+   */
+    .pblabel a > div.selector {
+        width: 9%;
+       margin: 0px 2% 0px 8%;
+    }
+    
+/*.barra-selectora.pblabel {
+    height: 67px;
+
+
+}*/
+}
+

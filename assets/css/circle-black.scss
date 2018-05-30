@@ -1,0 +1,186 @@
+.distribucion-color {
+    background-color: #cc0200!important;
+}
+
+
+
+.circle:after {
+    content: '';
+    width: 46px;
+    height: 46px;
+    margin-left: 0px;
+    margin-top: -5px;
+    border-radius: 35px;
+    font-size: 24px;
+    position: absolute;
+    background-color: #000;
+}
+
+
+
+
+
+
+.black {
+    background-color: #000;
+}
+
+.border {
+    border-bottom: 1px solid #fff;
+    width: 7%;
+}
+
+.linea {
+    margin-top: 0px;
+    margin-left: 59px;
+    border: 0;
+    border-top: 1px solid #eee;
+    width: 55px;
+}
+
+.position-rela {
+    position: relative;
+    top: 0px;
+    left: 23px;
+
+}
+
+
+
+.distribucion-color {
+    background-color: #cc0200!important;
+}
+
+/*.distribucion-padding {
+    padding: 10px 0px;
+    margin-top: 26%;
+
+}*/
+
+@media only screen and (min-width: 992px) {
+  /*  .distribucion-padding {
+        padding: 10px 0px;
+        margin-top: 10%!important;
+
+    }*/
+
+    .circle:after {
+
+        margin-top: 14px!important;
+
+    }
+
+}
+
+@media only screen and (min-width: 768px) {
+    .circle:after{
+        margin-top: 10px!important;
+    }
+}
+
+
+.text-white {
+    color: #fff;
+}
+
+.franja-logo {
+    background-color: #c1c1c1;
+}
+
+.color-padding {
+    background-color: #fafafa;
+}
+
+.color-padding {
+    padding: 30px;
+    margin: 15px 0px;
+
+}
+
+.fecha-abajo:hover {
+    background-color: #c00301;
+
+}
+
+.fecha-abajo::before {}
+
+
+/*
+.container-fluid{
+    padding: auto!important;
+}
+*/
+
+.margin {
+
+    margin: 25px 0px!important;
+}
+
+.circle {
+    /*
+     width: 70px;
+    height: 70px;
+    padding: 1px 35px;
+    border-radius: 35px;
+    font-size: 24px;
+    line-height: 1.33;
+    position: absolute;
+    */
+    /*
+        width: 46px;
+    height: 46px;
+    margin-top: 14px;
+    border-radius: 35px;
+    font-size: 24px;
+    position: absolute;
+*/
+}
+
+.circle:after {
+    content: '';
+    width: 46px;
+    height: 46px;
+    margin-left: 0px;
+    margin-top: -5px;
+    border-radius: 35px;
+    font-size: 24px;
+    position: absolute;
+    background-color: #000;
+}
+
+
+
+
+.black {
+    background-color: #000;
+}
+
+.border {
+    border-bottom: 1px solid #fff;
+    width: 7%;
+}
+
+.linea {
+    margin-top: 0px;
+    margin-left: 59px;
+    border: 0;
+    border-top: 1px solid #eee;
+    width: 55px;
+}
+
+.position-rela {
+    position: relative;
+    top: 0px;
+    left: 23px;
+
+}
+
+.position-rela::after {
+    content: "";
+    display: block;
+    margin-top: 6px;
+    margin-left: 20px;
+    border: 0;
+    border-top: 1px solid #eee!important;
+    width: 67px;
+}

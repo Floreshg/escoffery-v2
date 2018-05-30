@@ -1,0 +1,1507 @@
+/*
+#mapa img{
+    width: 100%!important;
+      margin: 50px 0px;
+}
+*/
+
+
+
+button#enviar-contacto {
+    /*    float: right;*/
+    padding: 10px 25px;
+}
+
+
+
+
+/*
+@media only screen and (min-width: 768px){
+ul.nav.navbar-nav.navbar-right a{
+ padding: 10px!important;
+    margin: 18px 0px;
+}
+}*/
+
+
+
+@media only screen and (max-width: 992px) {
+    .position-rela {
+        /*
+    top:18px;
+    left: 23px!important;
+*/
+    }
+    /*
+    .linea{
+   margin-left: 65px!important;
+            margin-top: 20px;
+    }
+*/
+}
+
+
+@media only screen and (max-width: 768px) {
+    .position-rela {
+        /*
+    top:18px;
+    left: 23px!important;
+    
+*/
+    }
+    /*
+    .linea{
+       
+        margin-left: 65px!important;
+            margin-top: 20px;
+    }
+*/
+}
+
+
+.border-radius input {
+    border-radius: 20px;
+}
+
+.border-radius textarea {
+    border-radius: 20px;
+}
+
+
+
+
+
+
+ul.nav.navbar-nav.navbar-right.color-ascan a:hover {
+    color: #fff!important;
+    background-color: #3b0080!important;
+}
+
+
+
+.logo-producto {
+    /*
+margin: 15px 0px;
+    */
+}
+
+
+
+
+.navbar-default .navbar-nav > .active > a,
+.navbar-default .navbar-nav > .active > a:focus,
+.navbar-default .navbar-nav > .active.productos > a:hover {}
+
+
+
+
+@media only screen and (max-width: 991px) {
+    ul.nav.navbar-nav.navbar-right {
+        font-size: 11px;
+    }
+}
+
+@media only screen and (min-width: 992px) {
+    ul.nav.navbar-nav.navbar-right {
+        font-size: 14px;
+    }
+}
+
+@media only screen and (max-width: 992px) {
+    .navbar-header .size-logo img {
+        margin-left: 15%;
+    }
+}
+
+.navbar-header .size-logo img {
+    /*   padding: 10px 0px; */
+}
+
+/*PUNTITOS A LA IZQUIERDA*/
+
+.carousel-indicators.productos {
+    /*        left: 20%!important; */
+}
+
+
+
+.imagenfondo {
+background-image: url('/assets/images/Banners-landing/banner-alolivo.jpg');
+background-repeat: no-repeat;
+background-size: cover;
+width: 100%;
+height: 100%;
+}
+
+
+.text-contact {
+/*
+
+    position: absolute;
+    z-index: 1;
+*/
+    /*
+    position: absolute;
+ */
+}
+
+
+
+
+
+.opacidad {
+    /*      position: absolute; */
+  opacity: 1;
+    background-color: rgba(0, 0, 0, .6);
+    left: 0px;
+    top: 0px;
+    width: 100%;
+    height: 100%;
+    z-index: 1;
+}
+
+
+.fondo-contact {
+    position: relative;
+    z-index: 0;
+}
+
+.margin-contact {
+/*    margin: 8% 0px;*/
+}
+
+.text-color-rojo {
+    color: #cc0200;
+}
+
+.color-text-product {
+    color: #613298;
+}
+
+.fa-clock-o:before {
+    color: #613298;
+}
+
+.fa-phone:before {
+    color: #613298;
+}
+
+.fa-envelope-open-o:before {
+    color: #613298;
+}
+
+i.fa.fa-clock-o {
+    font-size: 2em;
+    border-radius: 50%;
+    box-shadow: 0px 0px 5px #613298;
+    padding: 0.4em 0.5em;
+}
+
+
+i.fa.fa-envelope-open-o {
+    font-size: 2em;
+    border-radius: 50%;
+    box-shadow: 0px 0px 5px #613298;
+    padding: 0.4em 0.4em;
+}
+
+i.fa.fa-phone {
+    font-size: 2em;
+    border-radius: 50%;
+    box-shadow: 0px 0px 5px #613298;
+    padding: 0.4em 0.5em;
+}
+
+@media only screen and (min-width: 992px) {
+    .icon-padding {
+        padding: 6px 0px 6px 40px!important;
+    }
+}
+
+.img-btn:hover {
+
+    background: url(assets/images/btn-hover.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    z-index: 0;
+    height: 125px;
+}
+
+
+.auto-img {
+    width: 70%;
+    height: auto;
+    margin: 10px 0px;
+}
+
+
+
+
+.navbar-right {
+    /*   margin-top: 1px!important; */
+}
+
+
+
+/* COLOR ASCAN ACTIVO Y HOVER COLOR */
+
+.hover-ascan:hover {
+    border: 3px solid #bb9952;
+    border-radius: 0px 0px 30px 30px;
+
+
+
+}
+
+.hover-ascan {
+    border: 1px solid #a0a0a0;
+    border-radius: 0px 0px 30px 30px;
+
+}
+
+/* FIN ASCAN */
+
+/* COLOR ALO ACTIVO Y HOVER COLOR */
+
+.navbar-default .navbar-nav > .active.productos-alo > a,
+.navbar-default .navbar-nav > .active.productos-alo > a:focus,
+.navbar-default .navbar-nav > .active.productos-alo > a:hover {
+    color: #fff!important;
+    background-color: #75c179!important;
+}
+
+
+ul.nav.navbar-nav.navbar-right.color-alo a:hover {
+    color: #fff!important;
+    background-color: #75c179!important;
+}
+
+/* ----------------------------- */
+
+.color-productos-alo {
+    background: #75c179;
+}
+
+
+
+.hover-alo:hover {
+    border: 3px solid #75c179;
+    border-radius: 0px 0px 30px 30px;
+
+
+
+}
+
+.color-alo-text {
+    color: #75c179;
+    text-align: left;
+}
+
+.hover-alo {
+    border: 1px solid #a0a0a0;
+    border-radius: 0px 0px 30px 30px;
+
+}
+
+
+
+/*BLANDITOS NAV */
+
+.navbar-default .navbar-nav > .active.productos-blanditos > a,
+.navbar-default .navbar-nav > .active.productos-blanditos > a:focus,
+.navbar-default .navbar-nav > .active.productos-blanditos > a:hover {
+    color: #fff!important;
+    background-color: #545d94!important;
+}
+
+
+ul.nav.navbar-nav.navbar-right.color-blanditos a:hover {
+    color: #fff!important;
+    background-color: #545d94!important;
+}
+
+/* ----------------------------- */
+
+.color-productos-blanditos {
+    background: #545d94;
+}
+
+.color-blanditos-text {
+    color: #545d94;
+    text-align: left;
+}
+
+.hover-blanditos {
+    border: 1px solid #a0a0a0;
+    /* por defecto */
+    border-radius: 0px 0px 30px 30px;
+
+}
+
+
+/* productos paleta 1*/
+
+.hover-blanditos:hover {
+    border: 3px solid #f3dd32;
+    border-radius: 0px 0px 30px 30px;
+}
+
+/*--------- */
+
+/* FIN CSS BLANDITOS */
+
+/* DAK NAV */
+
+.navbar-default .navbar-nav > .active.productos-dak > a,
+.navbar-default .navbar-nav > .active.productos-dak > a:focus,
+.navbar-default .navbar-nav > .active.productos-dak > a:hover {
+    color: #fff!important;
+    background-color: #365991!important;
+}
+
+
+ul.nav.navbar-nav.navbar-right.color-dak a:hover {
+    color: #fff!important;
+    background-color: #365991!important;
+}
+
+/* ----------------------------- */
+
+.color-productos-dak {
+    background: #365991;
+}
+
+.color-dak-text {
+    color: #365991;
+    text-align: left;
+}
+
+.hover-dak {
+    border: 1px solid #a0a0a0;
+    /* por defecto */
+    border-radius: 0px 0px 30px 30px;
+
+}
+
+}
+
+
+/* productos paleta 1*/
+
+.hover-dak:hover {
+    border: 3px solid #ce221e;
+    border-radius: 0px 0px 30px 30px;
+}
+
+/*--------- */
+
+/* FIN CSS DAK */
+
+/* DOMINGO NAV */
+
+.navbar-default .navbar-nav > .active.productos-domingo > a,
+.navbar-default .navbar-nav > .active.productos-domingo > a:focus,
+.navbar-default .navbar-nav > .active.productos-domingo > a:hover {
+    color: #fff!important;
+    background-color: #8dc44f!important;
+}
+
+
+ul.nav.navbar-nav.navbar-right.color-domingo a:hover {
+    color: #fff!important;
+    background-color: #8dc44f!important;
+}
+
+/* ----------------------------- */
+
+.color-productos-domingo {
+    background: #8dc44f;
+}
+
+.color-domingo-text {
+    color: #8dc44f;
+    text-align: left;
+}
+
+.hover-domingo {
+    border: 1px solid #a0a0a0;
+    /* por defecto */
+    border-radius: 0px 0px 30px 30px;
+
+}
+
+
+/* productos paleta 1*/
+
+.hover-domingo:hover {
+    border: 3px solid #002077;
+    border-radius: 0px 0px 30px 30px;
+}
+
+/*--------- */
+
+/* FIN CSS DOMINGO */
+
+/* GRANORO NAV */
+
+.navbar-default .navbar-nav > .active.productos-granoro > a,
+.navbar-default .navbar-nav > .active.productos-granoro > a:focus,
+.navbar-default .navbar-nav > .active.productos-granoro > a:hover {
+    color: #fff!important;
+    background-color: #cabd9a!important;
+}
+
+
+ul.nav.navbar-nav.navbar-right.color-granoro a:hover {
+    color: #fff!important;
+    background-color: #cabd9a!important;
+}
+
+/* ----------------------------- */
+
+.color-productos-granoro {
+    background: #cabd9a;
+}
+
+.color-granoro-text {
+    color: #cabd9a;
+    text-align: left;
+}
+
+.hover-granoro {
+    border: 1px solid #a0a0a0;
+    /* por defecto */
+    border-radius: 0px 0px 30px 30px;
+
+}
+
+
+/* productos paleta 1*/
+
+.hover-granoro:hover {
+    border: 3px solid #bd001e;
+    border-radius: 0px 0px 30px 30px;
+}
+
+/*--------- */
+
+/* FIN CSS GRANORO */
+
+/* gallo pinto NAV */
+
+.navbar-default .navbar-nav > .active.productos-gallo > a,
+.navbar-default .navbar-nav > .active.productos-gallo > a:focus,
+.navbar-default .navbar-nav > .active.productos-gallo > a:hover {
+    color: #fff!important;
+    background-color: #e14352!important;
+}
+
+
+ul.nav.navbar-nav.navbar-right.color-gallo a:hover {
+    color: #fff!important;
+    background-color: #e14352!important;
+}
+
+/* ----------------------------- */
+
+.color-productos-gallo {
+    background: #e14352;
+}
+
+.color-gallo-text {
+    color: #e14352;
+    text-align: left;
+}
+
+.hover-gallo {
+    border: 1px solid #a0a0a0;
+    /* por defecto */
+    border-radius: 0px 0px 30px 30px;
+
+}
+
+
+/* productos paleta 1*/
+
+.hover-gallo:hover {
+    border: 3px solid #f9c62d;
+    border-radius: 0px 0px 30px 30px;
+}
+
+/*--------- */
+
+/* FIN CSS  gallo pinto */
+
+/* MY WAY NAV */
+
+.navbar-default .navbar-nav > .active.productos-way > a,
+.navbar-default .navbar-nav > .active.productos-way > a:focus,
+.navbar-default .navbar-nav > .active.productos-way > a:hover {
+    color: #fff!important;
+    background-color: #33b95a!important;
+}
+
+
+ul.nav.navbar-nav.navbar-right.color-way a:hover {
+    color: #fff!important;
+    background-color: #33b95a!important;
+}
+
+/* ----------------------------- */
+
+.color-productos-way {
+    background: #33b95a;
+}
+
+.color-way-text {
+    color: #33b95a;
+    text-align: left;
+}
+
+.hover-way {
+    border: 1px solid #a0a0a0;
+    /* por defecto */
+    border-radius: 0px 0px 30px 30px;
+
+}
+
+
+/* productos paleta 1*/
+
+.hover-way:hover {
+    border: 3px solid #ec4e1e;
+    border-radius: 0px 0px 30px 30px;
+}
+
+/*--------- */
+
+/* FIN CSS MY WAY*/
+
+/* MY RUMBA NAV */
+
+.navbar-default .navbar-nav > .active.productos-rumba > a,
+.navbar-default .navbar-nav > .active.productos-rumba > a:focus,
+.navbar-default .navbar-nav > .active.productos-rumba > a:hover {
+    color: #fff!important;
+    background-color: #005eb6!important;
+}
+
+
+ul.nav.navbar-nav.navbar-right.color-rumba a:hover {
+    color: #fff!important;
+    background-color: #005eb6!important;
+}
+
+/* ----------------------------- */
+
+.color-productos-rumba {
+    background: #005eb6;
+}
+
+.color-rumba-text {
+    color: #005eb6;
+    text-align: left;
+}
+
+.hover-rumba {
+    border: 1px solid #a0a0a0;
+    /* por defecto */
+    border-radius: 0px 0px 30px 30px;
+
+}
+
+
+/* productos paleta 1*/
+
+.hover-rumba:hover {
+    border: 3px solid #51a81b;
+    border-radius: 0px 0px 30px 30px;
+}
+
+/*--------- */
+
+/* FIN CSS RUMBA */
+
+/* sapolio NAV */
+
+.navbar-default .navbar-nav > .active.productos-sapolio > a,
+.navbar-default .navbar-nav > .active.productos-sapolio > a:focus,
+.navbar-default .navbar-nav > .active.productos-sapolio > a:hover {
+    color: #fff!important;
+    background-color: #37b64b!important;
+}
+
+
+ul.nav.navbar-nav.navbar-right.color-sapolio a:hover {
+    color: #fff!important;
+    background-color: #37b64b!important;
+}
+
+/* ----------------------------- */
+
+.color-productos-sapolio {
+    background: #37b64b;
+}
+
+.color-sapolio-text {
+    color: #37b64b;
+    text-align: left;
+}
+
+.hover-sapolio {
+    border: 1px solid #a0a0a0;
+    /* por defecto */
+    border-radius: 0px 0px 30px 30px;
+
+}
+
+
+/* productos paleta 1*/
+
+.hover-sapolio:hover {
+    border: 3px solid #d81e21;
+    border-radius: 0px 0px 30px 30px;
+}
+
+/*--------- */
+
+/* FIN CSS sapolio */
+
+/* two oceans NAV */
+
+.navbar-default .navbar-nav > .active.productos-oceans > a,
+.navbar-default .navbar-nav > .active.productos-oceans > a:focus,
+.navbar-default .navbar-nav > .active.productos-oceans > a:hover {
+    color: #fff!important;
+    background-color: #cebb54!important;
+}
+
+
+ul.nav.navbar-nav.navbar-right.color-oceans a:hover {
+    color: #fff!important;
+    background-color: #cebb54!important;
+}
+
+/* ----------------------------- */
+
+.color-productos-oceans {
+    background: #cebb54;
+}
+
+.color-oceans-text {
+    color: #cebb54;
+    text-align: left;
+}
+
+.hover-oceans {
+    border: 1px solid #a0a0a0;
+    /* por defecto */
+    border-radius: 0px 0px 30px 30px;
+
+}
+
+
+/* productos paleta 1*/
+
+.hover-oceans:hover {
+    border: 3px solid #0e649f;
+    border-radius: 0px 0px 30px 30px;
+}
+
+/*--------- */
+
+/* FIN CSS two oceans */
+
+/*FALTA PALETA DE COLORES*/
+
+/* alolivo NAV */
+
+.navbar-default .navbar-nav > .active.productos-alolivo > a,
+.navbar-default .navbar-nav > .active.productos-alolivo > a:focus,
+.navbar-default .navbar-nav > .active.productos-alolivo > a:hover {
+    color: #fff!important;
+    background-color: #cebb54!important;
+}
+
+
+ul.nav.navbar-nav.navbar-right.color-alolivo a:hover {
+    color: #fff!important;
+    background-color: #cebb54!important;
+}
+
+/* ----------------------------- */
+
+.color-productos-alolivo {
+    background: #cebb54;
+}
+
+.color-alolivo-text {
+    color: #cebb54;
+    text-align: left;
+}
+
+.hover-alolivo {
+    border: 1px solid #a0a0a0;
+    /* por defecto */
+    border-radius: 0px 0px 30px 30px;
+
+}
+
+
+/* productos paleta 1*/
+
+.hover-alolivo:hover {
+    border: 3px solid #0e649f;
+    border-radius: 0px 0px 30px 30px;
+}
+
+/*--------- */
+
+/* FIN CSS alolivo */
+
+/* babysec NAV */
+
+.navbar-default .navbar-nav > .active.productos-babysec > a,
+.navbar-default .navbar-nav > .active.productos-babysec > a:focus,
+.navbar-default .navbar-nav > .active.productos-babysec > a:hover {
+    color: #fff!important;
+    background-color: #cebb54!important;
+}
+
+
+ul.nav.navbar-nav.navbar-right.color-babysec a:hover {
+    color: #fff!important;
+    background-color: #cebb54!important;
+}
+
+/* ----------------------------- */
+
+.color-productos-babysec {
+    background: #cebb54;
+}
+
+.color-babysec-text {
+    color: #cebb54;
+    text-align: left;
+}
+
+.hover-babysec {
+    border: 1px solid #a0a0a0;
+    /* por defecto */
+    border-radius: 0px 0px 30px 30px;
+
+}
+
+
+/* productos paleta 1*/
+
+.hover-babysec:hover {
+    border: 3px solid #0e649f;
+    border-radius: 0px 0px 30px 30px;
+}
+
+/*--------- */
+
+/* FIN CSS Babysec */
+
+/* Dento NAV */
+
+.navbar-default .navbar-nav > .active.productos-dento > a,
+.navbar-default .navbar-nav > .active.productos-dento > a:focus,
+.navbar-default .navbar-nav > .active.productos-dento > a:hover {
+    color: #fff!important;
+    background-color: #cebb54!important;
+}
+
+
+ul.nav.navbar-nav.navbar-right.color-dento a:hover {
+    color: #fff!important;
+    background-color: #cebb54!important;
+}
+
+/* ----------------------------- */
+
+.color-productos-dento {
+    background: #cebb54;
+}
+
+.color-dento-text {
+    color: #cebb54;
+    text-align: left;
+}
+
+.hover-dento {
+    border: 1px solid #a0a0a0;
+    /* por defecto */
+    border-radius: 0px 0px 30px 30px;
+
+}
+
+
+/* productos paleta 1*/
+
+.hover-dento:hover {
+    border: 3px solid #0e649f;
+    border-radius: 0px 0px 30px 30px;
+}
+
+/*--------- */
+
+/* FIN CSS dento */
+
+/* desechables domingo NAV */
+
+.navbar-default .navbar-nav > .active.productos-desdomingo > a,
+.navbar-default .navbar-nav > .active.productos-desdomingo > a:focus,
+.navbar-default .navbar-nav > .active.productos-desdomingo > a:hover {
+    color: #fff!important;
+    background-color: #cebb54!important;
+}
+
+
+ul.nav.navbar-nav.navbar-right.color-desdomingo a:hover {
+    color: #fff!important;
+    background-color: #cebb54!important;
+}
+
+/* ----------------------------- */
+
+.color-productos-desdomingo {
+    background: #cebb54;
+}
+
+.color-desdomingo-text {
+    color: #cebb54;
+    text-align: left;
+}
+
+.hover-desdomingo {
+    border: 1px solid #a0a0a0;
+    /* por defecto */
+    border-radius: 0px 0px 30px 30px;
+
+}
+
+
+/* productos paleta 1*/
+
+.hover-desdomingo:hover {
+    border: 3px solid #0e649f;
+    border-radius: 0px 0px 30px 30px;
+}
+
+/*--------- */
+
+/* FIN CSS desechables domingo  */
+
+/* Elite NAV */
+
+.navbar-default .navbar-nav > .active.productos-elite > a,
+.navbar-default .navbar-nav > .active.productos-elite > a:focus,
+.navbar-default .navbar-nav > .active.productos-elite > a:hover {
+    color: #fff!important;
+    background-color: #cebb54!important;
+}
+
+
+ul.nav.navbar-nav.navbar-right.color-elite a:hover {
+    color: #fff!important;
+    background-color: #cebb54!important;
+}
+
+/* ----------------------------- */
+
+.color-productos-elite {
+    background: #cebb54;
+}
+
+.color-elite-text {
+    color: #cebb54;
+    text-align: left;
+}
+
+.hover-elite {
+    border: 1px solid #a0a0a0;
+    /* por defecto */
+    border-radius: 0px 0px 30px 30px;
+
+}
+
+
+/* productos paleta 1*/
+
+.hover-elite:hover {
+    border: 3px solid #0e649f;
+    border-radius: 0px 0px 30px 30px;
+}
+
+/*--------- */
+
+/* FIN CSS Elite  */
+
+
+
+/* MAPA BORDER*/
+
+.imagen-mapa {
+    border: 1px solid;
+}
+
+
+hr {
+    border-top: 1px solid #eee!important;
+    width: 60%;
+}
+
+
+.container > .navbar-header {
+    margin-left: 0px!important;
+}
+
+
+.img-padding {
+    padding: 10% 0px;
+
+}
+
+/*texto justificado*/
+
+.text-justify {
+    text-align: justify;
+
+    /*   line-height: 0.7cm; */
+}
+
+/*fin texto justificado*/
+
+/*mayuscula*/
+
+.mayuscula {
+    text-transform: uppercase;
+}
+
+/* fin mayuscula*/
+
+.btn-margin {
+    margin-top: 20px;
+}
+
+.border-black div img {
+    width: 130px;
+}
+
+
+/* HUGO*/
+
+.barra-selectora {
+    float: left;
+    width: 100%;
+    background: #c1c1c1;
+    height: 9%; /*MOBIL*/
+}
+
+
+
+@media screen and (min-width: 590px) {
+    .margen-selectora {
+        margin-left: calc(50% - 295px);
+    }
+}
+
+.margen-selectora {
+    max-width: 590px;
+    height: 100%;
+}
+
+.selector:hover,
+.seleccionada {
+    background: #ae0303;
+    overflow: visible;
+}
+
+@media only screen and (min-width: 992px) {
+
+.selector {
+    float: left;
+    width: 15%;
+    margin: 0px 0% 0px 5%;
+    padding: 3px 0px 3px 0px;
+    max-height: 100%;
+    max-width: 100px;
+    cursor: pointer;
+    text-align: center;
+    position: relative;
+    overflow: hidden;
+}
+
+  .barra-selectora {
+    height: 14%;
+} 
+   
+
+}
+
+.selector {
+/*
+    float: left;
+    width: 14%;
+    margin: 0px 0px 0px 5%;
+    padding: 10px 0px 10px 0px;
+    max-height: 80px;
+    max-width: 80px;
+    cursor: pointer;
+    text-align: center;
+    position: relative;
+    overflow: hidden;
+    
+    
+*/
+    
+    
+    float: left;
+    width: 15%;
+    margin: 0px 6px 0px 3%;
+    padding: 3px 0px 3px 0px;
+    max-height: 100%;
+    max-width: 100px;
+    cursor: pointer;
+    text-align: center;
+    position: relative;
+    overflow: hidden;
+}
+
+
+.selector .flecha {
+/*
+    background-image: url(../images/flecha.png);
+    width: 100%;
+    position: absolute;
+    z-index: 1;
+    left: 0px;
+    bottom: -30px;
+    height: 30px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    
+    
+*/
+    
+    background-image: url(../images/flecha1.png);
+    width: 100%;
+    position: absolute;
+    z-index: 1;
+    left: 0px;
+    bottom: -30px;
+    height: 30px;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.selector .ident {
+    width: 100%;
+    position: absolute;
+    z-index: 1;
+    left: 0px;
+    bottom: -24px;
+    height: 25px;
+    text-align: center;
+    color: #ffffff;
+    font-size: 0.8rem;
+}
+
+.selector img {
+/*    width: 80%;*/
+    
+        width: 100%;
+}
+
+.selector:hover,
+.seleccionada {
+    background: #ae0303;
+    overflow: visible;
+}
+
+.titulo-interno::before {
+    content: '';
+    display: block;
+    position: absolute;
+    width: 80px;
+    top: -7px;
+    left: calc(50% - 40px);
+    border: 1px solid #ae0303;
+}
+
+
+.titulo-interno::after {
+    content: '';
+    display: block;
+    position: absolute;
+    width: 80px;
+    top: -7px;
+    left: calc(50% - 40px);
+    border: 1px solid #ae0303;
+}
+
+
+/* fin HUGO*/
+
+/*FIRST MOBILE*/
+
+/*SECCION NAV E IMAGEN*/
+
+section#general {
+    margin-top: 16%;
+}
+
+.size-logo {
+    width: 50%;
+    margin: -3% 0px;
+}
+
+.size-logo img {
+    width: 100%;
+    height: auto;
+}
+
+
+
+
+.float-right {
+    float: right;
+    margin: 0px;
+}
+
+
+
+section.general {
+  margin-top: 0%;
+}
+
+.carousel-caption p {
+    font-size: 9px;
+}
+
+.carousel-caption {
+    left: 0%!important;
+}
+
+.opacidad-carousel {
+    background-color: rgba(0, 0, 0, 0.4);
+}
+
+
+.b5-main {
+    margin-top: 30px!important;
+}
+
+
+
+
+.productos-landings {
+    margin-top: 34%
+}
+
+.logo-private {
+    width: 63%!important;
+    margin-top: 8%;
+}
+
+.text-left {
+    text-align: left;
+}
+
+.text-right {
+    text-align: right
+}
+
+
+.lineas:before {
+    border: 1px solid #de7373!important;
+    width: 20%;
+    content: '';
+    display: block;
+    margin: 1% 39%;
+}
+
+.lineas:after {
+    border: 1px solid #de7373!important;
+    width: 20%;
+    content: '';
+    display: block;
+    margin: 1% 39%;
+}
+
+/*LANDINGS */
+.logo-producto img {
+    
+    
+    width: 26%;
+    margin-top: -10px;
+}
+
+
+.imagen25 {
+    width: 100%;
+    padding: 10px 0px;
+}
+  .textsize-landing{
+      font-size: 11px;  
+    }
+
+ .imagen25-lading{
+         width: 25%;
+    }
+
+.olivo-img img {
+    width: auto;
+    height: auto!important;
+
+}
+
+
+/*FIN LANDINGS */
+
+/*FIN FIRST MOBILE*/
+
+/* MODO TABLET */
+
+@media only screen and (min-width: 768px) {
+   section.general {
+          margin-top: 110px;
+    }
+
+
+    .carousel-caption {
+        right: 0%;
+        left: 0%!important;
+    }
+
+
+    .productos-landings {
+        margin-top: 18%;
+    }
+
+    .logo-private {
+        width: 67%!important;
+        margin: 1% 0%;
+    }
+    
+    .logo-producto img {
+    width: 62%;
+    margin-top: -10px;
+}
+    
+    
+    .imagen25 {
+    width: 25%;
+}
+    
+    .textsize-landing{
+         font-size: 24px;
+    }
+    
+    
+    
+
+
+
+}
+
+/* FIN TABLET */
+
+/* MODO PC */
+
+@media only screen and (min-width: 992px) {
+    
+      section.general {
+        margin-top: 110px;
+    }
+    
+    div#navbar {
+    margin-bottom: 0px;
+}
+    .productos-landings {
+    margin-top: 12%;
+    }
+
+
+    .logo-private {
+        width: 100%!important;
+        margin: 2% 60%;
+    }
+.logo-producto img {
+       width: 90%;
+    margin-top: -10px;
+    }
+    
+    .text-productos-1{
+  margin: 64% 0%;
+    }
+    
+    
+    .selector .ident{
+        font-size: 11px;
+    }
+
+    .secundario {
+        margin-top: 111px;
+    }
+        }
+
+/*SECCION NAV */
+
+@media only screen and (min-width: 768px) {
+   div#navbar {
+    margin-bottom: 10px;
+}
+    
+    .distribucion-color {
+/*    margin-top: 5%;*/
+}
+    
+    .size-logo {
+        width: 100%;
+        height: 0px;
+        margin-top: -17px;
+    }
+
+    .size-logo img {
+        width: 100%;
+        height: auto;
+    }
+    .navbar-header .size-logo img {
+        margin-left: 0%;
+    }
+
+
+    .carousel-caption p {
+        font-size: 15px;
+    }
+
+    .color-barra.container {
+        margin: 10px 0px!important;
+    }
+
+
+    .nav.navbar-nav.navbar-right a::after {
+        display: block;
+        content: "";
+        border-top: 1px solid white;
+        width: 50%;
+        margin-left: 23%;
+    }
+}
+
+
+
+/*Redes sociales nav*/
+
+.redes-sociales {
+    display: inline-block;
+    margin: 0px 25px 0 -21px;
+
+}
+
+i.fa.fa-facebook.rs {
+    font-size: 1.5em;
+    border-radius: 50%;
+    box-shadow: 0px 0px 2px #000;
+    padding: 0.2em 0.4em;
+    background: #000;
+    margin: 5px 0px;
+}
+
+i.fa.fa-instagram.rs {
+    font-size: 1.5em;
+    border-radius: 50%;
+    box-shadow: 0px 0px 2px #000;
+    padding: 0.2em 0.3em;
+    background: #000;
+    margin: 5px 0px;
+
+}
+
+
+i.fa.fa-youtube.rs {
+    font-size: 1.5em;
+    border-radius: 50%;
+    box-shadow: 0px 0px 2px #000;
+    padding: 0.2em 0.3em;
+    background: #000;
+    margin: 5px 0px;
+}
+
+
+
+i.fa.fa-facebook.rs:hover {
+    background: #fff;
+
+}
+
+.fa-facebook-f.rs:hover:before,
+.fa-facebook.rs:hover:before {
+    color: #000;
+}
+
+.fa-facebook-f.rs:before,
+.fa-facebook.rs:before {
+    color: #fff;
+}
+
+
+.fa-instagram-f.rs:hover:before,
+.fa-instagram.rs:hover:before {
+    color: #000;
+}
+
+i.fa.fa-instagram.rs:hover {
+    background: #fff;
+
+}
+
+.fa-instagram.rs:before {
+    color: #fff;
+}
+
+
+
+i.fa.fa-youtube.rs:hover {
+    background: #fff;
+
+}
+
+.fa-youtube-f.rs:hover:before,
+.fa-youtube.rs:hover:before {
+    color: #000;
+}
+
+.fa-youtube-f.rs:before,
+.fa-youtube.rs:before {
+    color: #fff;
+}
+
+
+/*Fin redes sociales*/
+
+/* FIN MODO PC */
+
+@media (min-width: 768px) {
+    .navbar-right {
+
+        margin-right: 0!important;
+    }
+}
+
+
+.opacidad h3{
+    padding: 70px 0;
+}
+
+.redes a{
+    display: inline-block;
+    text-align: center;
+    
+}
+
+

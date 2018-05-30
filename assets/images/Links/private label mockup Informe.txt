@@ -1,0 +1,410 @@
+Informe del paquete
+
+-----------------------------------------------------------------------------
+Documento:
+Nombre: private label mockup.ai
+Modo de color: Color RGB
+Perfil de color: Adobe RGB (1998)
+Unidades de regla: píxeles
+Dimensiones de la mesa de trabajo: 1170 px x 2000 px
+Mostrar imágenes en modo contorno: Desactivado
+Resaltar fuentes sustituidas: Desactivado
+Resaltar glifos sustituidos: Desactivado
+Conservar capacidad de edición de texto
+Simular papel de color: Desactivado
+
+-----------------------------------------------------------------------------
+Objetos de tintas planas:
+
+-----------------------------------------------------------------------------
+Fuentes no disponibles:Ninguno
+
+-----------------------------------------------------------------------------
+Fuentes protegidas no empaquetadas:Ninguno
+
+-----------------------------------------------------------------------------
+Fuentes:
+Catamaran ExtraBold (OTF)
+Catamaran (OTF)
+Catamaran ExtraLight (OTF)
+Catamaran Medium (OTF)
+Catamaran SemiBold (OTF)
+
+-----------------------------------------------------------------------------
+Fuentes incrustadas:
+Ninguno
+
+-----------------------------------------------------------------------------
+Enlaces no disponibles:
+Ninguno
+
+-----------------------------------------------------------------------------
+Imágenes enlazadas:
+
+C:\Users\User\Desktop\descargas fotos\321989-200.png
+Tipo: RGB transparente
+Bits por píxel: 32
+Canales: 4
+Tamaño: 156K, 200 por 200 píxeles
+Dimensiones: 35,2 por 35,2 puntos 
+Resolución: 409,091 por 409,091 píxeles por pulgada
+
+
+C:\Users\User\Desktop\PRIVATE LABEL\barra final.png
+Tipo: RGB transparente
+Bits por píxel: 32
+Canales: 4
+Tamaño: 230K, 1000 por 59 píxeles
+Dimensiones: 1171 por 69,089 puntos 
+Resolución: 61,486 por 61,486 píxeles por pulgada
+
+
+C:\Users\User\Desktop\PRIVATE LABEL\productos.png
+Tipo: RGB transparente
+Bits por píxel: 32
+Canales: 4
+Tamaño: 1398K, 1000 por 358 píxeles
+Dimensiones: 1008 por 360,864 puntos 
+Resolución: 71,429 por 71,429 píxeles por pulgada
+
+
+C:\Users\User\Desktop\descargas fotos\321989-200.png
+Tipo: RGB transparente
+Bits por píxel: 32
+Canales: 4
+Tamaño: 156K, 200 por 200 píxeles
+Dimensiones: 35,2 por 35,2 puntos 
+Resolución: 409,091 por 409,091 píxeles por pulgada
+
+
+C:\Users\User\Desktop\descargas fotos\321989-200.png
+Tipo: RGB transparente
+Bits por píxel: 32
+Canales: 4
+Tamaño: 156K, 200 por 200 píxeles
+Dimensiones: 35,2 por 35,2 puntos 
+Resolución: 409,091 por 409,091 píxeles por pulgada
+
+
+C:\Users\User\Desktop\PRIVATE LABEL\barra final.png
+Tipo: RGB transparente
+Bits por píxel: 32
+Canales: 4
+Tamaño: 230K, 1000 por 59 píxeles
+Dimensiones: 1171 por 69,089 puntos 
+Resolución: 61,486 por 61,486 píxeles por pulgada
+
+
+C:\Users\User\Desktop\PRIVATE LABEL\producto grande.png
+Tipo: RGB transparente
+Bits por píxel: 32
+Canales: 4
+Tamaño: 849K, 627 por 347 píxeles
+Dimensiones: 610,15 por 337,675 puntos 
+Resolución: 73,988 por 73,988 píxeles por pulgada
+
+
+C:\Users\User\Desktop\PRIVATE LABEL\haz tu pedido aqui.png
+Tipo: RGB transparente
+Bits por píxel: 32
+Canales: 4
+Tamaño: 816K, 1174 por 178 píxeles
+Dimensiones: 849,05 por 128,732 puntos 
+Resolución: 99,556 por 99,556 píxeles por pulgada
+
+
+C:\Users\User\Desktop\PRIVATE LABEL\muchas graciuas.png
+Tipo: RGB transparente
+Bits por píxel: 32
+Canales: 4
+Tamaño: 1036K, 787 por 337 píxeles
+Dimensiones: 889,754 por 381 puntos 
+Resolución: 63,685 por 63,685 píxeles por pulgada
+
+
+C:\Users\User\Desktop\PRIVATE LABEL\fondo d.png
+Tipo: RGB transparente
+Bits por píxel: 32
+Canales: 4
+Tamaño: 3045K, 885 por 881 píxeles
+Dimensiones: 843,814 por 840 puntos 
+Resolución: 75,514 por 75,514 píxeles por pulgada
+
+
+C:\Users\User\Desktop\PRIVATE LABEL\fondo suave.png
+Tipo: RGB transparente
+Bits por píxel: 32
+Canales: 4
+Tamaño: 945K, 1000 por 242 píxeles
+Dimensiones: 1170 por 283,14 puntos 
+Resolución: 61,538 por 61,538 píxeles por pulgada
+
+
+C:\Users\User\Desktop\PRIVATE LABEL\productos.png
+Tipo: RGB transparente
+Bits por píxel: 32
+Canales: 4
+Tamaño: 1398K, 1000 por 358 píxeles
+Dimensiones: 1008 por 360,864 puntos 
+Resolución: 71,429 por 71,429 píxeles por pulgada
+
+
+C:\Users\User\Desktop\descargas fotos\321989-200.png
+Tipo: RGB transparente
+Bits por píxel: 32
+Canales: 4
+Tamaño: 156K, 200 por 200 píxeles
+Dimensiones: 35,2 por 35,2 puntos 
+Resolución: 409,091 por 409,091 píxeles por pulgada
+
+
+C:\Users\User\Desktop\PRIVATE LABEL\fondo suave.png
+Tipo: RGB transparente
+Bits por píxel: 32
+Canales: 4
+Tamaño: 945K, 1000 por 242 píxeles
+Dimensiones: 1170 por 283,14 puntos 
+Resolución: 61,538 por 61,538 píxeles por pulgada
+
+
+C:\Users\User\Desktop\PRIVATE LABEL\flecha .png
+Tipo: RGB transparente
+Bits por píxel: 32
+Canales: 4
+Tamaño: 213K, 121 por 451 píxeles
+Dimensiones: 107 por 398,818 puntos 
+Resolución: 81,421 por 81,421 píxeles por pulgada
+
+
+C:\Users\User\Desktop\PRIVATE LABEL\barra final.png
+Tipo: RGB transparente
+Bits por píxel: 32
+Canales: 4
+Tamaño: 230K, 1000 por 59 píxeles
+Dimensiones: 1171 por 69,089 puntos 
+Resolución: 61,486 por 61,486 píxeles por pulgada
+
+
+C:\Users\User\Desktop\PRIVATE LABEL\cabecera.png
+Tipo: RGB transparente
+Bits por píxel: 32
+Canales: 4
+Tamaño: 9213K, 1170 por 2016 píxeles
+Dimensiones: 1172 por 2016,201 puntos 
+Resolución: 71,877 por 71,993 píxeles por pulgada
+
+
+C:\Users\User\Desktop\PRIVATE LABEL\cabecera.png
+Tipo: RGB transparente
+Bits por píxel: 32
+Canales: 4
+Tamaño: 9213K, 1170 por 2016 píxeles
+Dimensiones: 1172 por 2016,201 puntos 
+Resolución: 71,877 por 71,993 píxeles por pulgada
+
+
+C:\Users\User\Desktop\PRIVATE LABEL\flecha .png
+Tipo: RGB transparente
+Bits por píxel: 32
+Canales: 4
+Tamaño: 213K, 121 por 451 píxeles
+Dimensiones: 107 por 398,818 puntos 
+Resolución: 81,421 por 81,421 píxeles por pulgada
+
+
+C:\Users\User\Desktop\PRIVATE LABEL\cabecera.png
+Tipo: RGB transparente
+Bits por píxel: 32
+Canales: 4
+Tamaño: 9213K, 1170 por 2016 píxeles
+Dimensiones: 1172 por 2016,201 puntos 
+Resolución: 71,877 por 71,993 píxeles por pulgada
+
+
+C:\Users\User\Desktop\PRIVATE LABEL\flecha .png
+Tipo: RGB transparente
+Bits por píxel: 32
+Canales: 4
+Tamaño: 213K, 121 por 451 píxeles
+Dimensiones: 107 por 398,818 puntos 
+Resolución: 81,421 por 81,421 píxeles por pulgada
+
+
+C:\Users\User\Desktop\descargas fotos\321989-200.png
+Tipo: RGB transparente
+Bits por píxel: 32
+Canales: 4
+Tamaño: 156K, 200 por 200 píxeles
+Dimensiones: 37,593 por 37,593 puntos 
+Resolución: 383,052 por 383,052 píxeles por pulgada
+
+
+C:\Users\User\Desktop\PRIVATE LABEL\fondo suave.png
+Tipo: RGB transparente
+Bits por píxel: 32
+Canales: 4
+Tamaño: 945K, 1000 por 242 píxeles
+Dimensiones: 1170 por 283,14 puntos 
+Resolución: 61,538 por 61,538 píxeles por pulgada
+
+
+C:\Users\User\Desktop\PRIVATE LABEL\productos.png
+Tipo: RGB transparente
+Bits por píxel: 32
+Canales: 4
+Tamaño: 1398K, 1000 por 358 píxeles
+Dimensiones: 1008 por 360,864 puntos 
+Resolución: 71,429 por 71,429 píxeles por pulgada
+
+
+C:\Users\User\Desktop\PRIVATE LABEL\flecha .png
+Tipo: RGB transparente
+Bits por píxel: 32
+Canales: 4
+Tamaño: 213K, 121 por 451 píxeles
+Dimensiones: 107 por 398,818 puntos 
+Resolución: 81,421 por 81,421 píxeles por pulgada
+
+
+C:\Users\User\Desktop\PRIVATE LABEL\cabecera.png
+Tipo: RGB transparente
+Bits por píxel: 32
+Canales: 4
+Tamaño: 9213K, 1170 por 2016 píxeles
+Dimensiones: 1172 por 2016,201 puntos 
+Resolución: 71,877 por 71,993 píxeles por pulgada
+
+
+C:\Users\User\Desktop\PRIVATE LABEL\fondo suave.png
+Tipo: RGB transparente
+Bits por píxel: 32
+Canales: 4
+Tamaño: 945K, 1000 por 242 píxeles
+Dimensiones: 1170 por 283,14 puntos 
+Resolución: 61,538 por 61,538 píxeles por pulgada
+
+
+C:\Users\User\Desktop\PRIVATE LABEL\barra final.png
+Tipo: RGB transparente
+Bits por píxel: 32
+Canales: 4
+Tamaño: 230K, 1000 por 59 píxeles
+Dimensiones: 1171 por 69,089 puntos 
+Resolución: 61,486 por 61,486 píxeles por pulgada
+
+
+C:\Users\User\Desktop\PRIVATE LABEL\productos.png
+Tipo: RGB transparente
+Bits por píxel: 32
+Canales: 4
+Tamaño: 1398K, 1000 por 358 píxeles
+Dimensiones: 1008 por 360,864 puntos 
+Resolución: 71,429 por 71,429 píxeles por pulgada
+
+
+C:\Users\User\Desktop\descargas fotos\321989-200.png
+Tipo: RGB transparente
+Bits por píxel: 32
+Canales: 4
+Tamaño: 156K, 200 por 200 píxeles
+Dimensiones: 35,2 por 35,2 puntos 
+Resolución: 409,091 por 409,091 píxeles por pulgada
+
+
+C:\Users\User\Desktop\PRIVATE LABEL\barra final.png
+Tipo: RGB transparente
+Bits por píxel: 32
+Canales: 4
+Tamaño: 230K, 1000 por 59 píxeles
+Dimensiones: 1171 por 69,089 puntos 
+Resolución: 61,486 por 61,486 píxeles por pulgada
+
+
+C:\Users\User\Desktop\PRIVATE LABEL\flecha .png
+Tipo: RGB transparente
+Bits por píxel: 32
+Canales: 4
+Tamaño: 213K, 121 por 451 píxeles
+Dimensiones: 107 por 398,818 puntos 
+Resolución: 81,421 por 81,421 píxeles por pulgada
+
+
+C:\Users\User\Desktop\PRIVATE LABEL\productos.png
+Tipo: RGB transparente
+Bits por píxel: 32
+Canales: 4
+Tamaño: 1398K, 1000 por 358 píxeles
+Dimensiones: 1008 por 360,864 puntos 
+Resolución: 71,429 por 71,429 píxeles por pulgada
+
+
+C:\Users\User\Desktop\PRIVATE LABEL\cabecera.png
+Tipo: RGB transparente
+Bits por píxel: 32
+Canales: 4
+Tamaño: 9213K, 1170 por 2016 píxeles
+Dimensiones: 1172 por 2016,201 puntos 
+Resolución: 71,877 por 71,993 píxeles por pulgada
+
+
+C:\Users\User\Desktop\PRIVATE LABEL\fondo suave.png
+Tipo: RGB transparente
+Bits por píxel: 32
+Canales: 4
+Tamaño: 945K, 1000 por 242 píxeles
+Dimensiones: 1170 por 283,14 puntos 
+Resolución: 61,538 por 61,538 píxeles por pulgada
+
+
+C:\Users\User\Desktop\PRIVATE LABEL\flecha .png
+Tipo: RGB transparente
+Bits por píxel: 32
+Canales: 4
+Tamaño: 213K, 121 por 451 píxeles
+Dimensiones: 107 por 398,818 puntos 
+Resolución: 81,421 por 81,421 píxeles por pulgada
+
+
+C:\Users\User\Desktop\PRIVATE LABEL\cabecera.png
+Tipo: RGB transparente
+Bits por píxel: 32
+Canales: 4
+Tamaño: 9213K, 1170 por 2016 píxeles
+Dimensiones: 1172 por 2016,201 puntos 
+Resolución: 71,877 por 71,993 píxeles por pulgada
+
+
+C:\Users\User\Desktop\PRIVATE LABEL\fondo suave.png
+Tipo: RGB transparente
+Bits por píxel: 32
+Canales: 4
+Tamaño: 945K, 1000 por 242 píxeles
+Dimensiones: 1170 por 283,14 puntos 
+Resolución: 61,538 por 61,538 píxeles por pulgada
+
+
+C:\Users\User\Desktop\PRIVATE LABEL\barra final.png
+Tipo: RGB transparente
+Bits por píxel: 32
+Canales: 4
+Tamaño: 230K, 1000 por 59 píxeles
+Dimensiones: 1177 por 69,089 puntos 
+Resolución: 61,172 por 61,486 píxeles por pulgada
+
+
+C:\Users\User\Desktop\descargas fotos\321989-200.png
+Tipo: RGB transparente
+Bits por píxel: 32
+Canales: 4
+Tamaño: 156K, 200 por 200 píxeles
+Dimensiones: 35,2 por 35,2 puntos 
+Resolución: 409,091 por 409,091 píxeles por pulgada
+
+
+C:\Users\User\Desktop\PRIVATE LABEL\productos.png
+Tipo: RGB transparente
+Bits por píxel: 32
+Canales: 4
+Tamaño: 1398K, 1000 por 358 píxeles
+Dimensiones: 1008 por 360,864 puntos 
+Resolución: 71,429 por 71,429 píxeles por pulgada

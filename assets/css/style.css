@@ -1,0 +1,202 @@
+*{
+  font-family: 'Open Sans', sans-serif;
+}
+.borde-white{
+  border: 1px solid white;
+}
+.ff-raleway{
+  font-family: 'Raleway', sans-serif;
+}
+.bg-white{
+  background-color: #fff;
+}
+.text-white{
+  color: black;
+}
+
+/*HERO*/
+#hero{
+  background-image: url(../images/taxi.jpg);
+  background-position: 100% 93%;
+  background-size: cover;
+  background-repeat: no-repeat;
+  font-family: 'Raleway', sans-serif;
+  height: 90vh;
+  position: relative;
+}
+.box-hero{
+  padding: 30px;
+  position: absolute;
+  right: 0;
+  top: 60px;
+}
+.box-hero img{
+  width: 80px;
+}
+.box-hero input{
+  border: 0;
+  background: none;
+  border-bottom: 1px solid #ffffff;
+  margin-bottom: 10px;
+  outline: none;
+}
+.box-hero h2{
+  line-height: 0.4;
+}
+.btn-hero{
+  margin: 20px 0;
+}
+.texto-hero{
+  font-size: 2rem;
+  font-weight: 600;
+}
+.texto-hero img{
+  margin-left: 5px;
+}
+.texto-hero h5{
+  font-weight: 600;
+  margin-top: 17px;
+}
+.title{
+  margin : 40px 0;
+}
+/*HERO*/
+/*------information---*/
+section#informacion{
+  position: relative;
+  padding-top: 30px;
+  padding-bottom: 10px;
+}
+section#informacion h3{
+  font-family: 'Raleway', sans-serif;
+  font-weight: bold;
+  margin-bottom: 3rem;
+}
+section#informacion p{
+  font-size: 1.8rem;
+  line-height: 2.8rem;
+  margin-bottom: 3rem;
+}
+#informacion img{
+  width: 300px;
+}
+.row-left{
+  align-items: flex-start;
+  display: flex;
+  justify-content:flex-start;
+  padding: 3rem 18rem;
+  transform: translateX(-20%);
+}
+
+/*Map*/
+#map-route{
+  padding: 20px 0;
+}
+#map-route h4{
+  padding: 20px 0;
+}
+#map{
+  height: 30rem;
+}
+.form-control:focus {
+  border-color: white;
+  box-shadow: inset 0 0px 0px rgba(0,0,0,.075), 0 0 0px white;
+}
+.form-control::-webkit-input-placeholder {
+  color: white;
+}
+#total-rate{
+  color: black;
+}
+/*MAP*/
+#footer{
+  background-color: #2b2b2b;
+  color: #ffffff;
+  padding: 50px 15px;
+}
+#footer a{
+  color: #ffffff;
+  font-size: 1.5rem;
+}
+.flex-end{
+  align-items: flex-end;
+  display: flex;
+}
+.flex-end img{
+  cursor: pointer;
+  margin-top: 40px;
+}
+#footer .nav>li>a {
+  padding: 10px 1px;
+}
+/*footer*/
+@media(max-width: 760px){
+  .box-hero{
+    top: 125px;
+  }
+ }
+  .row-left{
+    margin:4rem 2rem 2rem 2rem;
+    padding: 4rem;
+    padding-top: 6rem;
+    transform: none;
+  }
+  .flex-end{
+    align-items: flex-start;
+  }
+  .flex-end img{
+    width: 150px;
+  }
+
+    
+    
+
+    
+#mapa img{
+    width: 100%!important;
+}
+
+.navbar-toggle{
+    margin-left: 15px;
+    margin-top: 15px;
+}
+.navbar-default .navbar-brand{
+    color: #f7b617;
+    font-weight: 600;
+}
+.navbar-default .navbar-brand i{
+    color: gray;
+    font-weight: 600;
+}
+.navbar-nav>li>a {
+   padding-top: 30px; 
+}
+.navbar-default .navbar-nav>li>a{
+    color: black;
+}
+.navbar-default{
+    background-color: white;
+    border-color: white;
+}
+.navbar{
+    margin-bottom: 0;
+}
+.navbar-header .size-logo img{
+  /*  padding: 20px; */
+}
+.navbar-default .navbar-toggle:hover{
+    background-color: white;
+}
+.navbar-default .navbar-toggle{
+    border: 0;
+} 
+/*
+    @media only screen and (min-width: 480px){
+    .navbar-header .size-logo img{
+ padding: 20px; 
+}}*/
+
+    
+    
+    
+    

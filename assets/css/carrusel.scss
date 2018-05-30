@@ -1,0 +1,24 @@
+.carousel-caption p {
+    font-size: 9px;
+}
+
+.carousel-caption {
+    left: 0%!important;
+}
+
+.opacidad-carousel {
+    background-color: rgba(0, 0, 0, 0.4);
+}
+
+
+@media only screen and (min-width: 768px) {
+.carousel-caption p{
+     font-size: 13px;
+}
+}
+
+@media only screen and (min-width: 992px) {
+.carousel-caption p{
+     font-size: 16px;
+}
+}

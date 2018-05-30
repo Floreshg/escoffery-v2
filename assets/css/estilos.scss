@@ -1,0 +1,94 @@
+@import"section-index.scss";
+
+@import"icon-social.scss";
+
+@import"nav.scss";
+
+@import"carrusel.scss";
+@import"search.scss";
+
+@import"barra-selector-flecha.scss";
+
+@import"circle-black.scss";
+
+@import"espacios.scss";
+
+@import"section-privatelabel.scss";
+
+@import"section-contactanos.scss";
+
+@import"footer.scss";
+
+
+
+section.general {
+    margin-top: 144px;
+}
+
+/*BOTONES VER MAS*/
+
+.btn-danger:hover {
+    color: #fff;
+    background-color: #000!important;
+    border-color: #000!important;
+}
+
+.btn-danger {
+    color: #fff;
+    background-color: #cc0200!important;
+    border-color: #cc0200!important;
+}
+
+
+
+.border-black {
+
+    border: 1px solid #c2c2c2;
+    border-radius: 25px;
+    width: auto;
+    height: 255px;
+}
+
+
+.imagen50 {
+    width: 50%;
+    height: auto;
+}
+
+
+.linea-marca {
+    margin-top: 0px;
+    border: 0;
+    border-top: 2px solid #de7373!important;
+    width: 20%;
+
+}
+
+.text-center {
+    text-align: center;
+}
+
+.text-margin {
+
+    margin-bottom: 20px;
+}
+
+.text-footer18 {
+    font-size: 18px;
+}
+
+.text-footer16 {
+    font-size: 16px;
+}
+
+.text-color-footer {
+    color: #8a8a8a;
+}
+
+.color-productos {
+    background: #613298;
+}
+
+.text-center-medio {
+    margin: 25% 0px;
+}

@@ -1,0 +1,18 @@
+.img-contact{
+display: block;
+    text-align: center;
+    background-position: center !important;
+    background-size: cover !important;
+    background-repeat: no-repeat !important;
+}
+.text-contact{
+    padding: 7% 0% 7%;
+}
+
+@media only screen and (min-width: 992px) {
+.text-contact{
+    padding: 14%;
+}
+}
+
+
